@@ -5,6 +5,10 @@
    <sources>
       <source>src/main/java/interceptor/AuthenticationException.java</source>
       <source>src/main/java/interceptor/Public.java</source>
+      <source>src/main/java/common/MongoConfiguration.java</source>
+      <source>src/main/java/common/MongoConfigurationFactory.java</source>
+      <source>src/main/java/common/MongoFactory.java</source>
+      <source>src/main/java/common/MorphiaFactory.java</source>
    </sources>
    <resources>
       <resource>src/main/resources/log4j.properties</resource>
